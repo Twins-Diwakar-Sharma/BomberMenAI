@@ -1,6 +1,5 @@
 # BomberMenAI
 PvP Bomberman game
-This is a game that someone else created.
 
 ## Description
 It is a classic bomberman game in which 2 players try to kill each other using bombs.
