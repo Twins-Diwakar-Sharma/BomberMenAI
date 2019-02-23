@@ -3,7 +3,7 @@ PvP Bomberman game
 
 ## Description
 It is a classic bomberman game in which 2 players try to kill each other using bombs.
-The game has two types of bricks : Breakable and unbreakable. 
+The game has two types of bricks : Breakable and unbreakable sdomasdf . 
 Breakable bricks has chance to spawn powers when destroyed.
 Made purely in java and art was done in photoshop by us only.
 
